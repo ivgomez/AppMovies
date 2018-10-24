@@ -1,0 +1,31 @@
+sosalertaapp
+SosAlerta!
+git helpi-app
+Helpi2018!
+---------------
+alertasosapp
+AlertaSos!
+---------------
+sos-app
+SosApp2018!
+---------------
+helpi.ver1
+HelpiApp!
+
+thermometer
+npm install -g @ionic/app-scripts@latest --save-dev
+
+https://www.udemy.com/
+ivan.gomez@sixdegreesit.solutions
+6sixDegre3s!
+
+
+
+Clave de la API (v3 auth)
+461fefc7fdae1406bc5a221d14a0e948
+
+Token de acceso de lectura a la API (v4 auth)
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NjFmZWZjN2ZkYWUxNDA2YmM1YTIyMWQxNGEwZTk0OCIsInN1YiI6IjViY2NkOWJlYzNhMzY4Mjg2NjAxMmViMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.xhCL-5Vwx--9VoUXwRM5I82kI-keqat6zX5FyxaxFCo
+
+Ejemplo de Solicitud de API
+https://api.themoviedb.org/3/movie/550?api_key=461fefc7fdae1406bc5a221d14a0e948
