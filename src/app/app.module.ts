@@ -10,7 +10,9 @@ import { BuscarComponent } from './components/buscar/buscar.component';
 
 //Services
 import { PeliculasService } from './services/peliculas.service';
-import { APP_ROUTING } from './app.routes'
+import { APP_ROUTING } from './app.routes';
+import { PeliculaImagenPipe } from './pipes/pelicula-imagen.pipe';
+import { GaleriaComponent } from './components/home/galeria.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { APP_ROUTING } from './app.routes'
     NavbarComponent,
     HomeComponent,
     PeliculaComponent,
-    BuscarComponent
+    BuscarComponent,
+    PeliculaImagenPipe,
+    GaleriaComponent,
   ],
   imports: [
     BrowserModule,
